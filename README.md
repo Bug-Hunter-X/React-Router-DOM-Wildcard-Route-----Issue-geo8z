@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle issue encountered when using wildcard routes ('*') in React Router DOM v6.  The problem arises from the order and interaction of routes, leading to unexpected behavior like infinite redirect loops or incorrect component rendering. The solution showcases how to correctly structure routes to avoid this problem.
